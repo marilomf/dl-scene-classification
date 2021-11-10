@@ -1,0 +1,9 @@
+# OSX temporary files
+.DS_Store
+
+.idea
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.ipynb_checkpoints/
+__pycache__
